@@ -5,7 +5,7 @@ print(name)
 print(today)
 
 
-from utils import add, subtract, multiply
+from utils import add, subtract, multiply, divide
 
 print("Addition: ", add(10, 10))
 print("Subtraction: ", subtract(20, 10))
