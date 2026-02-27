@@ -1,0 +1,1 @@
+This project demonstrates basic Git and GitHub workflow while building a simple calculator application with add, subtract, multiply, and divide functions.
